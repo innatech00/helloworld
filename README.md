@@ -1,4 +1,2 @@
 # helloworld
-starting
-
-Hey all, I am learning data science and python. I am very excited and pleased.
+Here is place for my certificates and projects I have participated in
